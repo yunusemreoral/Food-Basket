@@ -1,0 +1,15 @@
+
+const actionTypes = {
+    REST_LOADİNG: "REST LOADİNG",
+    REST_SUCCESS: "REST SUCCESS",
+    REST_ERROR: "REST_ERROR",
+
+    CART_LOADİNG: "CART_LOADİNG",
+    CART_SUCCESS: "CART_SUCCESS",
+    CART_ERROR: "CART_ERROR",
+    CREATE_ITEM: "CREATE_ITEM",
+    UPDATE_ITEM: "UPDATE_ITEM",
+    DELETE_ITEM: "DELETE_ITEM",
+};
+
+export default actionTypes;
