@@ -1,7 +1,8 @@
 # Food-Basket 🍽️
 
 <li>Bu proje tercih edilen Restaurant üzerinden yemek siparişi vermek için tasarlanmıştır.</li>
-<li>Projede ilgili restaurant</li>
+<li>Restaurantlara ait mesafe,teslimat süresi,derecelendirme,yemek çeşitleri verileri mevcuttur.</li>
+<li>Yemek siparişi vermek için sepete ekleme,güncelleme,silme özelliği vardır.</li>
 <li>Kullanıcı dostu responsive tasarımı vardır.</li>
 
 # Kullanılan Teknolojiler 🎨
