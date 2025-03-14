@@ -15,7 +15,7 @@
 <li>⭐ Axios</li>
 <li>⭐ React-Toastify</li>
 <li>⭐ Uuıd</li>
-<li>⭐ Json-Server/li>
+<li>⭐ Json-Server</li>
   
 # Ekran Görüntüsü 🎥
 <img src="foodbasket.gif" width="auto">      
